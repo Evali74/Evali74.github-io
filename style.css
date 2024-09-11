@@ -7,8 +7,8 @@ body {
 
 .container {
   max-width: 400px;
-  margin: 20px auto;
-  padding: 20px;
+  margin: 10px auto;
+  padding: 10px;
   background-color: rgb(255, 217, 217);
   border-radius: 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -16,7 +16,7 @@ body {
 
 label {
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 input {
